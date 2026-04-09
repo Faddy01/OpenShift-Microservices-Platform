@@ -85,7 +85,7 @@ flowchart LR
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openshift-microservices-platform.git
+git clone https://github.com/faddy01/openshift-microservices-platform.git
 cd openshift-microservices-platform
 ```
 
@@ -96,8 +96,8 @@ cd openshift-microservices-platform
 Update container image references:
 
 ```bash
-your-dockerhub/backend:latest
-your-dockerhub/frontend:latest
+fawad9-dockerhub/backend:latest
+fawad9-dockerhub/frontend:latest
 ```
 
 ---
